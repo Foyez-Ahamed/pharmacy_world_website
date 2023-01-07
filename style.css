@@ -1,3 +1,40 @@
 body{
     font-family: 'Roboto', sans-serif;
 }
+
+/* header two customs style start  */
+
+.h-2-p{
+    font-size: 55px;
+    font-weight: 700;
+    
+}
+
+.h-2-p::first-letter{
+  font-size: 55px;
+  color: #8FBDF2;
+}
+
+.h-2-p span{
+    font-size: 13px;
+    display: inline-block;
+    font-weight: 300;
+    
+}
+
+.form-style{
+    width: 80%;
+}
+
+.form-style button{
+    color: #fff;
+    width: 20%;
+    margin-left: -50px;
+    background: #8FBDF2;
+}
+
+.span-style{
+    background: #8FBDF2; 
+}
+
+/* header two customs style end  */
