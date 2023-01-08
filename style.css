@@ -23,12 +23,12 @@ body{
 }
 
 .form-style{
-    width: 80%;
+    width: 90%;
 }
 
 .form-style button{
     color: #fff;
-    width: 20%;
+    width: 30%;
     margin-left: -50px;
     background: #8FBDF2;
 }
@@ -38,3 +38,35 @@ body{
 }
 
 /* header two customs style end  */
+
+
+/* main customs style start  */
+
+ #main-section-first{
+    background: #8FBDF2;
+    color: #fff;
+ }
+
+ /* main navbar start  */
+ .main-nav-1{
+    margin-left: -20px;
+ }
+
+ /* main navbar end  */
+
+ /* <!-- main section slider start  --> */
+ 
+  .for-bg{
+   background: #fff;
+  
+  }
+
+  .slider-img{
+    width: 100%;
+    height: 400px;
+  }
+
+ /* <!-- main section slider start  --> */
+
+
+/* main customs style end  */
